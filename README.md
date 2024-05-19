@@ -1,5 +1,5 @@
 # codedex
-
+## The legend of Python
 ### +Checkpoint project : Rock paper scissor lizard and spock game
 The rules are very similar to the ones from the classic “Rock Paper Scissors” but with two new options, “Lizard” and “Spock”:
 
