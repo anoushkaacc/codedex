@@ -1,6 +1,7 @@
 import imageio.v3 as iio
 
-filenames = [r'C:\Users\anoushka chatterjee\python programs\gifmaking\cat_image1.jpg', r'C:\Users\anoushka chatterjee\python programs\gifmaking\cat_image2.jpg']
+#use actual full path in system while running this code
+filenames = [r'cat_image1.jpg', r'cat_image2.jpg']
 images = []
 
 for filename in filenames:
