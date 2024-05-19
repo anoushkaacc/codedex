@@ -16,5 +16,5 @@ The rules are very similar to the ones from the classic â€œRock Paper Scissorsâ€
 - Rock breaks Scissors.
 ### +Final project : ~soon~
 
-##Gif making with imageio library
+## Gif making with imageio library
 [Made this cute little cat gif](https://github.com/anoushkaacc/codedex/tree/3548581edbf362ae5b1d956e41e19189c359bcab/gifmaking) 
