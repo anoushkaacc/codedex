@@ -1,6 +1,6 @@
 # codedex
 
-### +Checkpoint game : Rock paper scissor lizard and spock
+### +Checkpoint project : Rock paper scissor lizard and spock game
 The rules are very similar to the ones from the classic “Rock Paper Scissors” but with two new options, “Lizard” and “Spock”:
 
 - Scissors cut Paper.
@@ -13,3 +13,4 @@ The rules are very similar to the ones from the classic “Rock Paper Scissors�
 - Paper disproves Spock.
 - Spock vaporizes Rock.
 - Rock breaks Scissors.
+### +Final project : ~soon~
