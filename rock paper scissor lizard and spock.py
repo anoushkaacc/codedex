@@ -25,9 +25,7 @@ def play():
     else:
       print("cpu wins")                
 
-
-
-times = int(input("how many time you want to play? "))
+times = int(input("How many times do you want to play? "))
 while times > 0:
     play()
     times -= 1
