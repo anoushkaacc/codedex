@@ -23,3 +23,6 @@ The rules are very similar to the ones from the classic â€œRock Paper Scissorsâ€
 ## Predict Home Prices with Python and Linear Regression
 Created a linear regression model to predict house prices based on house sizes. Using a scatterplot of test data, the model will form a relationship between the two variables and then make [predictions](https://github.com/anoushkaacc/codedex/tree/main/Predict%20home%20proces%20with%20python%20and%20linear%20regression) .
 Libraries used: scikit-learn, Pandas, Numpy, Matplotlib .
+
+## Pong Game
+Made this [Game](https://github.com/anoushkaacc/codedex/blob/main/pong%20game.py) Using PyGame 
